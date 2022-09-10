@@ -1,0 +1,21 @@
+{
+  "name": "week-6-project-war",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Index WAR.js",
+  "scripts": {
+    "test": "Test"
+  },
+  "keywords": [
+    "Week",
+    "6",
+    "WAR",
+    "Card",
+    "Game"
+  ],
+  "author": "Eric",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.6"
+  }
+}
